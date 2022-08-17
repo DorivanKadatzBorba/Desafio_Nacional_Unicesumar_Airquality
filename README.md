@@ -3,4 +3,5 @@
  aqui eu desenvolvo alguns modelos estatístico em cima da base de dados Airquality, seguindo uma
  linha de raciocínio hipotética eu faço uma regressão linear para prever valores de ozônio presentes
  no ar a nível do solo.
+ <br />
  Segue o link de apresentação do projeto: https://www.youtube.com/watch?v=46LI5v22CfI&t=281s
